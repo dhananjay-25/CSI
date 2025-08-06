@@ -149,7 +149,7 @@ The app will launch in your browser. You can draw Hindi digits and see the predi
 
 -   🔗 [LinkedIn](https://www.linkedin.com/in/dhananjay-chandel25/)
 
--   💼 Project for academic/portfolio usage
+-   💼 Project for CSI final evaluation.
 
 * * * * *
 
