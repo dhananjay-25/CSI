@@ -147,7 +147,7 @@ The app will launch in your browser. You can draw Hindi digits and see the predi
 
 -   👨‍🎓 Dhananjay Chandel
 
--   🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+-   🔗 [LinkedIn](https://www.linkedin.com/in/dhananjay-chandel25/)
 
 -   💼 Project for academic/portfolio usage
 
