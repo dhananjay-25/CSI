@@ -137,8 +137,8 @@ The app will launch in your browser. You can draw Hindi digits and see the predi
 📌 Example Output
 -----------------
 
-![Canvas Example](https://i.imgur.com/sOMEImage.png)\
-*Drawn digit with prediction using HOG + SVM*
+![Canvas Example](Output.png)\
+*Drawn digit with prediction using ML model*
 
 * * * * *
 
