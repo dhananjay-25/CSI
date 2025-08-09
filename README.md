@@ -1,7 +1,7 @@
 📜 Hindi Digit Classification, ML model & App
 =========================================
 
-This is a simple yet interactive **Streamlit application** where users can draw **Hindi digits (0-9)** using their mouse or finger, and the app will predict the digit using a pre-trained **SVM** or **KNN** model trained on **HOG (Histogram of Oriented Gradients)** features.
+This is a simple yet interactive **Streamlit application** where users can draw **Hindi digits (0-9)** using their mouse or finger, and the app will predict the digit using a pre-trained **SVM** or **KNN** model trained on **HOG (Histogram of Oriented Gradients)** features. Digit Drawn on Canvas is converted to immage which is then processed using HOG and predicted using the selected SVM or KNN models.
 
 * * * * *
 
@@ -142,6 +142,18 @@ The app will launch in your browser. You can draw Hindi digits and see the predi
 
 * * * * *
 
+Optional Enhancements
+---------------------
+
+-   Show top-K KNN neighbors
+-   Upload digit image from file
+-   Add model confidence score or heatmap
+-   Add Hindi digit label translation
+-   Use CNN or transfer learning approach using pretrained CNN architectures like VGG16 or VGG19
+-   We used 200 images per class, But model can be trained on complete dataset containing 1700 images per class for better generalization. Dataset: [kaggle Devnagri MNIST data](https://www.kaggle.com/datasets/anurags397/hindi-mnist-data)
+
+* * * * *
+
 🧑‍💻 Author
 ------------
 
@@ -150,6 +162,8 @@ The app will launch in your browser. You can draw Hindi digits and see the predi
 -   🔗 [LinkedIn](https://www.linkedin.com/in/dhananjay-chandel25/)
 
 -   💼 Project for CSI final evaluation.
+
+-   Don't forget to leave a star for this repository 😉.
 
 * * * * *
 
